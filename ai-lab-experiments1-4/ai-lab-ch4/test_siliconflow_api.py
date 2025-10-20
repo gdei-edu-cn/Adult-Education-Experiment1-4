@@ -4,7 +4,7 @@
 import requests  # 用于发送HTTP请求
 
 # 配置API相关参数
-API_KEY = ""  # 请在此处填入您的硅基流动API密钥
+API_KEY = "sk-oqfienrjzxwlowarsbbgzgbffovxhknumlkfqmrazxayospz"  # 请在此处填入您的硅基流动API密钥
 API_URL = "https://api.siliconflow.cn/v1/chat/completions"  # 聊天API地址
 
 def test_api_connection():
